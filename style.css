@@ -1,5 +1,6 @@
 body{
     background-color: #eef0f2;
+    font-family: Verdana;
 }
 .primary{
     background-color: #4482c1;
@@ -25,6 +26,23 @@ nav{
     width: 150px;
     margin: 4px;
 }
-main{
-
+.grid-contaner{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.grid-item{
+    padding: 10px;
+    background-color: darkgrey;
+    border-width: 2px;
+    text-align: center;
+    width:33%;
+}
+.grid-item .header{
+    grid-column: 1 / span 3;
+}
+.grid-item .image{
+    grid-column: 1 / span 1;
+}
+.grid-item .text{
+    grid-column: 2 / span 2;
 }

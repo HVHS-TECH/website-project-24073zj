@@ -45,6 +45,7 @@ main{
 }
 .image{
     grid-column: 1 / span 1;
+    
 }
 .text{
     grid-column: 2 / span 2;

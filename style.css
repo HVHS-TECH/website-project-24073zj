@@ -26,17 +26,19 @@ nav{
     width: 150px;
     margin: 4px;
 }
-/*.grid-contaner{
-    display: grid;
-    grid-template-columns: auto auto auto;
-    padding: 10px;
+main{
+    margin: 0;
+    padding: 0; 
 }
-.grid-item{
-    padding: 10px;
-    background-color: darkgrey;
-    border-width: 2px;
-    text-align: center;
-}*/
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+.grid-item {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
 .header{
     grid-column: 1 / span 3;
 }
@@ -45,16 +47,4 @@ nav{
 }
 .text{
     grid-column: 2 / span 2;
-}
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  background-color: dodgerblue;
-  padding: 10px;
-}
-.grid-item {
-  background-color: #f1f1f1;
-  padding: 10px;
-  font-size: 30px;
-  text-align: center;
 }

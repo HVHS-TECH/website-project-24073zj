@@ -44,7 +44,7 @@ main{
     height: 300px;
 }
 .header h1{
-    justify-self: ;
+    justify-content: center;
 }
 .image-1{
     grid-column: 1 / span 1;

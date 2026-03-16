@@ -21,6 +21,7 @@ nav{
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-evenly;
+    border-bottom: solid black 2px;
 }
 .nav-button{
     padding: 10px;
@@ -30,6 +31,9 @@ nav{
 main{
     margin: 0;
     padding: 0; 
+}
+footer{
+    border-top: solid black 2px;
 }
 .grid-container {
   display: grid;
@@ -46,20 +50,25 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
+    border: solid black 2px;
 }
 .image-1{
     grid-column: 1 / span 1;
     height: 200px;
+    border: solid black 2px;
 }
 .text-1{
     grid-column: 2 / span 2;
     height: 200px;
+    border: solid black 2px;
 }
 .text-2{
     grid-column: 1 / span 2;
     height: 200px;
+    border: solid black 2px;
 }
 .image-2{
     grid-column: 3 / span 1;
     height: 200px;
+    border: solid black 2px;
 }

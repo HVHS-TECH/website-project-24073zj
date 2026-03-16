@@ -35,14 +35,13 @@ nav{
     background-color: darkgrey;
     border-width: 2px;
     text-align: center;
-    width:33%;
 }
-.grid-item .header{
+.header{
     grid-column: 1 / span 3;
 }
-.grid-item .image{
+.image{
     grid-column: 1 / span 1;
 }
-.grid-item .text{
+.text{
     grid-column: 2 / span 2;
 }

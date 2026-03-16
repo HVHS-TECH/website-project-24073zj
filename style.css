@@ -37,11 +37,14 @@ main{
 }
 .grid-item {
   background-color: #f1f1f1;
-  padding: 10px;
   text-align: center;
 }
 .header{
     grid-column: 1 / span 3;
+    height: 300px;
+}
+.header h1{
+    justify-self: ;
 }
 .image-1{
     grid-column: 1 / span 1;

@@ -51,6 +51,7 @@ footer{
     justify-content: center;
     align-items: center;
     border: solid black 2px;
+    background-image: url("f-16thunderbird.jpeg");
 }
 .image-1{
     grid-column: 1 / span 1;

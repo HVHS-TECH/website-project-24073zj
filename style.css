@@ -1,13 +1,14 @@
 body{
     background-color: #eef0f2;
     font-family: Verdana;
+    margin: 0;
+    padding: 0; 
 }
 .primary{
     background-color: #4482c1;
 }
 .secondary{
     background-color: #cbedf6;
-    padding: 2px;
 }
 .accent{
     background-color: #fa761e;

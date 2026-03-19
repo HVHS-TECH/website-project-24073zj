@@ -63,7 +63,7 @@ footer{
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: auto; /* Resize the background image to cover the entire container 819 x 557 */
-    background-color: #1760AF;
+    background-color: #5480c1;
     background-position-y: 42.5%;
 }
 /*.header{
@@ -84,12 +84,11 @@ footer{
 .image-1{
     grid-column: 1 / span 1;
     height: 250px;
-    /*width: 500px;*/
     border: solid black 2px;
     background-image: url("https://www.lockheedmartin.com/content/dam/lockheed-martin/aero/photo/f22/F-22-2.jpg");
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 600px 600px;
 }
 .text-1{
     grid-column: 2 / span 2;
@@ -109,9 +108,9 @@ footer{
     /*width: 500px;*/
     border: solid black 2px;
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/58/WA591_%287503026524%29.jpg");
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .image-3{
     grid-column: 1 / span 1;

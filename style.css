@@ -114,6 +114,7 @@ footer{
     background-position-y: 50%;
     background-repeat: no-repeat;
     background-size: cover;
+    transform: scaleX(-1);
 }
 .image-3{
     grid-column: 1 / span 1;

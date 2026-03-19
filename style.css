@@ -119,7 +119,7 @@ footer{
     /*width: 500px;*/
     border: solid black 2px;
     background-color: #eef0f2;
-    background-image: url("https://www.usafmarathon.com/wp-content/uploads/2022/03/f-4-phantom-ii-bill-lindsay.jpeg");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/F-15C_Eagle_from_the_44th_Fighter_Squadron_flies_during_a_routine_training_exercise_April_15%2C_2019.jpg/1280px-F-15C_Eagle_from_the_44th_Fighter_Squadron_flies_during_a_routine_training_exercise_April_15%2C_2019.jpg");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */

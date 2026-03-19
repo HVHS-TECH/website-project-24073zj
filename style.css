@@ -88,7 +88,8 @@ footer{
     background-image: url("https://www.lockheedmartin.com/content/dam/lockheed-martin/aero/photo/f22/F-22-2.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 600px 600px;
+    background-size: 520px 338px;
+    background-position-y: 30%;
 }
 .text-1{
     grid-column: 2 / span 2;

@@ -90,14 +90,7 @@ footer{
     background-position-y: 30%;
     background-repeat: no-repeat;
     background-size: 520px 338px;
-}
-.image-1 {
-  background-image: url('your-image.jpg');
-  transform: scaleX(-1); /* Flips everything */
-}
-
-.image-1 > * {
-  transform: scaleX(-1); /* Flips children back to normal */
+    transform: scaleX(-1);
 }
 .text-1{
     grid-column: 2 / span 2;

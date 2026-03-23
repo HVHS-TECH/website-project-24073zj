@@ -83,7 +83,7 @@ footer{
 }*/
 .image-1{
     grid-column: 1 / span 1;
-    height: 250px;
+    height: 275px;
     border: solid black 2px;
     background-image: url("https://www.lockheedmartin.com/content/dam/lockheed-martin/aero/photo/f22/F-22-2.jpg");
     background-position: center;
@@ -94,7 +94,7 @@ footer{
 }
 .text-1{
     grid-column: 2 / span 2;
-    height: 250px;
+    height: 275px;
     border: solid black 2px;
     background-color: #eef0f2;
 }

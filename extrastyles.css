@@ -1,4 +1,15 @@
 .p5header{
-    background-image: none;
+    grid-column: 1 / span 3;
+    height: 350px;
+    font-size:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid black 2px;
     background-image: url("Images/j20.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: auto; /* Resize the background image to cover the entire container 819 x 557 */
+    background-color: #5480c1;
+    background-position-y: 42.5%;
 }

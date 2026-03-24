@@ -17,6 +17,10 @@ body{
     background-color: #cdcfd1;
     padding: 2px;
 }
+button{
+    background-color: #FA7921;
+    padding: 6px;
+}
 nav{
     display: flex;
     flex-wrap: nowrap;

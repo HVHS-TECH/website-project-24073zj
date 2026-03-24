@@ -63,7 +63,7 @@ footer > p{
     justify-content: center;
     align-items: center;
     border: solid black 2px;
-    background-image: url("su35.png");
+    background-image: url("Images/su35.png");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: auto; /* Resize the background image to cover the entire container 819 x 557 */

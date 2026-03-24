@@ -44,6 +44,9 @@ main{
 footer{
     border-top: solid black 2px;
 }
+footer > p{
+    margin-left: 20px;
+}
 .grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;

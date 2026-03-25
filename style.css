@@ -82,7 +82,7 @@ footer > p{
     background-image: url("https://nuke.fas.org/guide/usa/airdef/f-80.jpg");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: auto 900px; /* Resize the background image to cover the entire container 819 x 557 */
+    background-size: 1000; /* Resize the background image to cover the entire container 819 x 557 */
     background-position-y: 45%;
 }
 #p2-header{

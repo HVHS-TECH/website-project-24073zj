@@ -68,7 +68,7 @@ footer > p{
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: auto; /* Resize the background image to cover the entire container 819 x 557 */
     background-color: #5480c1;
-    background-position-y: 42.5%;
+    background-position-y: 50%;
 }
 /*.header{
     grid-column: 1 / span 3;

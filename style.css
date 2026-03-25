@@ -70,6 +70,36 @@ footer > p{
     background-size: auto 900px; /* Resize the background image to cover the entire container 819 x 557 */
     background-position-y: 45%;
 }
+#p1-header{
+    grid-column: 1 / span 3;
+    height: 350px;
+    font-size:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid black 2px;
+    background-color: #9092a0;
+    background-image: url("Images/su35.png");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: auto 900px; /* Resize the background image to cover the entire container 819 x 557 */
+    background-position-y: 45%;
+}
+#p4-header{
+    grid-column: 1 / span 3;
+    height: 350px;
+    font-size:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid black 2px;
+    background-color: #9092a0;
+    background-image: url("Images/su35.png");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: auto 900px; /* Resize the background image to cover the entire container 819 x 557 */
+    background-position-y: 45%;
+}
 /*.header{
     grid-column: 1 / span 3;
     height: 350px;

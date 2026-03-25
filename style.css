@@ -72,18 +72,19 @@ footer > p{
 }
 #p1-header{
     grid-column: 1 / span 3;
-    height: 350px;
+    height: 450px;
     font-size:30px;
     display: flex;
     justify-content: center;
     align-items: center;
     border: solid black 2px;
     background-color: #9092a0;
-    background-image: url("https://nuke.fas.org/guide/usa/airdef/f-80.jpg");
+    background-image: url("Images/f-80.jpg");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: 2000px; /* Resize the background image to cover the entire container 819 x 557 */
-    background-position-y: 45%;
+    background-size: 1550px; /* Resize the background image to cover the entire container 819 x 557 */
+    background-position-y: 40%;
+    color: black;
 }
 #p2-header{
     grid-column: 1 / span 3;

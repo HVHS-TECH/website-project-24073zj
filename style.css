@@ -95,7 +95,7 @@ footer > p{
     align-items: center;
     border: solid black 2px;
     background-color: #9092a0;
-    background-image: url("Images/su35.png");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/2d/Lightning.inflight.arp.750pix.jpg");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: auto 900px; /* Resize the background image to cover the entire container 819 x 557 */

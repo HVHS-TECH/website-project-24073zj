@@ -102,8 +102,8 @@ footer > p{
     background-image: url("Images/download.png");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* Resize the background image to cover the entire container 819 x 557 */
-    background-position-y: 45%;
+    background-size: 1900px auto; /* Resize the background image to cover the entire container 819 x 557 */
+    background-position-y: 20%;
 }
 #p3-header{
     grid-column: 1 / span 3;

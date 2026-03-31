@@ -95,7 +95,7 @@ footer > p{
     align-items: center;
     border: solid black 2px;
     background-color: #aabbd7;
-    background-image: url("Images/lightning.jpg");
+    background-image: url("Images/download.png");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: auto 900px; /* Resize the background image to cover the entire container 819 x 557 */

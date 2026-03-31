@@ -64,7 +64,7 @@ footer > p{
     align-items: center;
     border: solid black 2px;
     background-color: #9092a0;
-    background-image: url("Images/su352.jpg");
+    background-image: url("Images/su35_2.jpg");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: auto 900px; /* Resize the background image to cover the entire container 819 x 557 */
@@ -88,14 +88,14 @@ footer > p{
 }
 #p2-header{
     grid-column: 1 / span 3;
-    height: 350px;
+    height: 450px;
     font-size:30px;
     display: flex;
     justify-content: center;
     align-items: center;
     border: solid black 2px;
-    background-color: #9092a0;
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/2d/Lightning.inflight.arp.750pix.jpg");
+    background-color: #aabbd7;
+    background-image: url("Images/lightning.jpg");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: auto 900px; /* Resize the background image to cover the entire container 819 x 557 */
@@ -103,7 +103,7 @@ footer > p{
 }
 #p3-header{
     grid-column: 1 / span 3;
-    height: 350px;
+    height: 450px;
     font-size:30px;
     display: flex;
     justify-content: center;
@@ -118,7 +118,7 @@ footer > p{
 }
 #p4-header{
     grid-column: 1 / span 3;
-    height: 350px;
+    height: 450px;
     font-size:30px;
     display: flex;
     justify-content: center;
@@ -133,39 +133,25 @@ footer > p{
 }
 #p5-header{
     grid-column: 1 / span 3;
-    height: 350px;
+    height: 450px;
     font-size:30px;
     display: flex;
     justify-content: center;
     align-items: center;
     border: solid black 2px;
     background-color: #9092a0;
-    background-image: url("Images/j20.jpg");
+    background-image: url("Images/j20_2.jpg");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: auto 900px; /* Resize the background image to cover the entire container 819 x 557 */
+    background-size: auto 1100px; /* Resize the background image to cover the entire container 819 x 557 */
     background-position-y: 45%;
+    color: black;
 }
-/*.header{
-    grid-column: 1 / span 3;
-    height: 350px;
-    font-size:30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: solid black 2px;
-    background-image: url("f-16thunderbird.jpeg");
-    background-position: center;  Center the image 
-    background-repeat: no-repeat;  Do not repeat the image 
-    background-size: 1000px 680px;  Resize the background image to cover the entire container 819 x 557
-    background-color: #1760AF;
-    background-position-y: 42.5%;
-}*/
 .image-1{
     grid-column: 1 / span 1;
-    height: 275px;
+    height: 250px;
     border: solid black 2px;
-    background-image: url("https://www.lockheedmartin.com/content/dam/lockheed-martin/aero/photo/f22/F-22-2.jpg");
+    background-image: url("Images/f22.jpg");
     background-position: center;
     background-position-y: 30%;
     background-repeat: no-repeat;
@@ -174,15 +160,17 @@ footer > p{
 }
 .text-1{
     grid-column: 2 / span 2;
-    height: 275px;
+    height: 250px;
     border: solid black 2px;
     background-color: #eef0f2;
+    background-color: #d7d9db;
 }
 .text-2{
     grid-column: 1 / span 2;
     height: 250px;
     border: solid black 2px;
     background-color: #eef0f2;
+    background-color: #d7d9db;
 }
 .image-2{
     grid-column: 3 / span 1;
@@ -202,7 +190,7 @@ footer > p{
     /*width: 500px;*/
     border: solid black 2px;
     background-color: #eef0f2;
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/F-15C_Eagle_from_the_44th_Fighter_Squadron_flies_during_a_routine_training_exercise_April_15%2C_2019.jpg/1280px-F-15C_Eagle_from_the_44th_Fighter_Squadron_flies_during_a_routine_training_exercise_April_15%2C_2019.jpg");
+    background-image: url("Images/f15.jpg");
     background-position: center;
     background-position-y: 80%;
     background-repeat: no-repeat;
@@ -212,19 +200,44 @@ footer > p{
     grid-column: 2 / span 2;
     height: 250px;
     border: solid black 2px;
+    background-color: #d7d9db;
 }
-.p5header{
-    grid-column: 1 / span 3;
-    height: 350px;
-    font-size:30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+#p1-image-2{
+    grid-column: 3 / span 1;
+    height: 250px;
     border: solid black 2px;
-    background-image: url("Images/j20.jpg");
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: auto; /* Resize the background image to cover the entire container 819 x 557 */
-    background-color: #5480c1;
-    background-position-y: 42.5%;
+    background-image: url("Images/Vampire.jpg");
+    background-position: center 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#p5-image-1{
+    grid-column: 1 / span 1;
+    height: 250px;
+    border: solid black 2px;
+    background-image: url("Images/f22_2.jpg");
+    background-position: 40% 39%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scaleX(-1);
+}
+#p5-image-2{
+    grid-column: 3 / span 1;
+    height: 250px;
+    border: solid black 2px;
+    background-image: url("Images/f35b.jpg");
+    background-position: center 25%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scaleX(-1);
+}
+#p5-image-3{
+    grid-column: 1 / span 1;
+    height: 250px;
+    border: solid black 2px;
+    background-image: url("Images/su57.jpg");
+    background-position: center 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scaleX(-1);
 }

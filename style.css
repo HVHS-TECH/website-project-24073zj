@@ -98,7 +98,7 @@ footer > p{
     background-image: url("Images/download.png");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: auto 900px; /* Resize the background image to cover the entire container 819 x 557 */
+    background-size: auto auto; /* Resize the background image to cover the entire container 819 x 557 */
     background-position-y: 45%;
 }
 #p3-header{

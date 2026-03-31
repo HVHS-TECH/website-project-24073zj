@@ -99,11 +99,26 @@ footer > p{
     align-items: center;
     border: solid black 2px;
     background-color: #aabbd7;
-    background-image: url("Images/download.png");
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: 1900px auto; /* Resize the background image to cover the entire container 819 x 557 */
+    background-image: url("Images/lightningai.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1900px auto; 
     background-position-y: 20%;
+    /*
+    grid-column: 1 / span 3;
+    height: 450px;
+    font-size:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid black 2px;
+    background-color: #aabbd7;
+    background-image: url("Images/lightning.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: auto 900px; 
+    background-position-y: 45%; 819 x 557
+    */
 }
 #p3-header{
     grid-column: 1 / span 3;

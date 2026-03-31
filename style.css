@@ -20,6 +20,10 @@ body{
 button{
     background-color: #FA7921;
     padding: 6px;
+    border-style: outset;
+}
+button:hover{
+    border-style: inset;
 }
 nav{
     display: flex;

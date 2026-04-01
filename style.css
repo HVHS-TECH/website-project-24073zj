@@ -24,10 +24,11 @@ button{
 }
 button:hover{
     border-style: inset;
+    /*background-color: #d4661c;*/
 }
 button:active{
     border-style: inset;
-    background-color: #d1641b;
+    background-color: #ff9148;
 }
 nav{
     display: flex;

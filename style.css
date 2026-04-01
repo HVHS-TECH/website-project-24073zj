@@ -25,6 +25,10 @@ button{
 button:hover{
     border-style: inset;
 }
+button:click{
+    border-style: inset;
+    background-color: #d1641b;
+}
 nav{
     display: flex;
     flex-wrap: nowrap;

@@ -104,12 +104,12 @@ footer > p{
     align-items: center;
     border: solid black 2px;
     background-color: #aabbd7;
-    background-image: url("Images/lightningai.png");
+    background-image: url("Images/LightningEdit2.png");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 1900px auto; 
+    background-size: 1280px 720px; 
     background-position-y: 20%;
-    /*
+    /* 1280 x 720
     grid-column: 1 / span 3;
     height: 450px;
     font-size:30px;

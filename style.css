@@ -107,8 +107,8 @@ footer > p{
     background-image: url("Images/LighningEdit2.png");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 1280px 720px; 
-    background-position-y: 20%;
+    background-size: 1800px auto; 
+    background-position-y: 50%;
     /* 1280 x 720
     grid-column: 1 / span 3;
     height: 450px;

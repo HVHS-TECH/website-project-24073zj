@@ -255,6 +255,34 @@ footer > p{
     background-repeat: no-repeat;
     background-size: cover;
 }
+#p2-image-1{
+    grid-column: 1 / span 1;
+    height: 250px;
+    border: solid black 2px;
+    background-image: url("Images/f86.jpg");
+    background-position: center 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scaleX(-1);
+}
+#p2-image-2{
+    grid-column: 3 / span 1;
+    height: 250px;
+    border: solid black 2px;
+    background-image: url("Images/mig15.jpg");
+    background-position: center 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#p2-image-3{
+    grid-column: 1 / span 1;
+    height: 250px;
+    border: solid black 2px;
+    background-image: url("Images/p80.jpg");
+    background-position: center 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 #p5-image-1{
     grid-column: 1 / span 1;
     height: 250px;

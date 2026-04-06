@@ -228,6 +228,15 @@ footer > p{
     border: solid black 2px;
     background-color: #d7d9db;
 }
+#p1-image-1{
+    grid-column: 1 / span 1;
+    height: 250px;
+    border: solid black 2px;
+    background-image: url("Images/me262.jpg");
+    background-position: center 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 #p1-image-2{
     grid-column: 3 / span 1;
     height: 250px;

@@ -283,6 +283,62 @@ footer > p{
     background-repeat: no-repeat;
     background-size: cover;
 }
+#p3-image-1{
+    grid-column: 1 / span 1;
+    height: 250px;
+    border: solid black 2px;
+    background-image: url("Images/mirage3.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scaleX(-1);
+}
+#p3-image-2{
+    grid-column: 3 / span 1;
+    height: 250px;
+    border: solid black 2px;
+    background-image: url("Images/f4.jpeg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#p3-image-3{
+    grid-column: 1 / span 1;
+    height: 250px;
+    border: solid black 2px;
+    background-image: url("Images/mig21.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#p4-image-1{
+    grid-column: 1 / span 1;
+    height: 250px;
+    border: solid black 2px;
+    background-image: url("Images/f15_2.jpg");
+    background-position: 40% 39%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scaleX(-1);
+}
+#p4-image-2{
+    grid-column: 3 / span 1;
+    height: 250px;
+    border: solid black 2px;
+    background-image: url("Images/typhoon.jpg");
+    background-position: 40% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#p4-image-3{
+    grid-column: 1 / span 1;
+    height: 250px;
+    border: solid black 2px;
+    background-image: url("Images/su27.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 #p5-image-1{
     grid-column: 1 / span 1;
     height: 250px;

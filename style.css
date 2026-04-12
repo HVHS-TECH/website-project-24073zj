@@ -383,6 +383,10 @@ itt
 
 /* Media Query stuff! */
 @media screen and (max-width: 990px) {
+    .grid-container {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
     .image-1{
         grid-column: 1 / span 1;
         height: 250px;
@@ -395,21 +399,21 @@ itt
         transform: scaleX(-1);
     }
     .text-1{
-        grid-column: 2 / span 2;
+        grid-column: 1 / span 1;
         height: 250px;
         border: solid black 2px;
         background-color: #eef0f2;
         background-color: #d7d9db;
     }
     .text-2{
-        grid-column: 1 / span 2;
+        grid-column: 1 / span 1;
         height: 250px;
         border: solid black 2px;
         background-color: #eef0f2;
         background-color: #d7d9db;
     }
     .image-2{
-        grid-column: 3 / span 1;
+        grid-column: 1 / span 1;
         height: 250px;
         /*width: 500px;*/
         border: solid black 2px;
@@ -433,7 +437,7 @@ itt
         background-size: cover;
     }
     .text-3{
-        grid-column: 2 / span 2;
+        grid-column: 1 / span 1;
         height: 250px;
         border: solid black 2px;
         background-color: #d7d9db;

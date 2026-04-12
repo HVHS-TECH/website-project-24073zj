@@ -453,6 +453,23 @@ itt
         border: solid black 2px;
         background-color: #d7d9db;
     }
+    #p1-image-1, #p2-image-1,  #p3-image-1, #p4-image-1, #p5-image-1{
+        grid-column: 1 / span 1;
+        height: 450px;
+        background-size: cover;
+    }
+    #p1-image-2, #p2-image-2,  #p3-image-2, #p4-image-2, #p5-image-2{
+        grid-column: 1 / span 1;
+        height: 450px;
+        background-size: cover;
+        grid-row: 4;
+    }
+    #p1-image-3, #p2-image-3,  #p3-image-3, #p4-image-3, #p5-image-3{
+        grid-column: 1 / span 1;
+        height: 450px;
+        background-size: cover;
+    }
+    
 }
 @media screen and (min-width: 1600px) {
     p{

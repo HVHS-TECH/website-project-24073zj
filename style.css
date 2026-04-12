@@ -439,7 +439,7 @@ itt
         background-color: #d7d9db;
     }
 }
-@media screen and (min-width: 1500px) and (max-width: 2500px) {
+@media screen and (min-width: 1500px) {
     p{
         font-size: x-large;
     }
@@ -489,7 +489,7 @@ itt
         height: 550px;
         font-size: 30px;
         background-size: cover;
-        background-size: 1900px auto; /* Resize the background image to cover the entire container 819 x 557 */
+        background-size: 3100px auto;
         background-position-y: 51.25%;
     }
     #p1-header > h1, #p2-header > h1{

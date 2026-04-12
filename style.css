@@ -58,7 +58,7 @@ footer > p{
 }
 
 /* 
-0-990, 
+300-990, 
 nav below logo
 i
 tt
@@ -382,7 +382,7 @@ itt
 
 
 /* Media Query stuff! */
-@media screen and (min-width: 480px) and (max-width: 768px) {
+@media screen and (max-width: 990px) {
   body {
     background-color: lightgreen;
   }

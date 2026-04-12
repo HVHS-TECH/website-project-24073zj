@@ -439,16 +439,15 @@ itt
         background-color: #d7d9db;
     }
 }
-@media screen and (min-width: 1500px) and (max-width: 2500) {
-    .image-1{
-        grid-column: 1 / span 1;
-        height: 250px;
-        border: solid black 2px;
-        background-image: url("Images/f22.jpg");
-        background-position: center;
-        background-position-y: 30%;
-        background-repeat: no-repeat;
+@media screen and (min-width: 1500px) and (max-width: 2500px) {
+    footer{
+
+    }
+    .image-1, .image-2, .image-3{
+        height: 350px;
         background-size: cover;
-        transform: scaleX(-1);
+    }
+    .text-1, .text-2, .text-3{
+        height: 350px;
     }
 }

@@ -439,7 +439,7 @@ itt
         background-color: #d7d9db;
     }
 }
-@media screen and (min-width: 1500px) {
+@media screen and (min-width: 1600px) {
     p{
         font-size: x-large;
     }

@@ -467,9 +467,7 @@ itt
     .header{
         height: 550px;
         font-size: 30px;
-        background-position: center; /* Center the image */
-        background-repeat: no-repeat; /* Do not repeat the image */
-        background-size: auto 1500px; /* Resize the background image to cover the entire container 819 x 557 */
+        background-size: auto 1500px;
         background-position-y: 45%;
     }
     .header > h1{
@@ -483,6 +481,22 @@ itt
         height: 350px;
     }
     #p1-image-1, #p1-image-2, #p1-image-3{
+        height: 350px;
+        background-size: cover;
+    }
+    #p2-image-1, #p2-image-2, #p2-image-3{
+        height: 350px;
+        background-size: cover;
+    }
+    #p3-image-1, #p3-image-2, #p3-image-3{
+        height: 350px;
+        background-size: cover;
+    }
+    #p4-image-1, #p4-image-2, #p4-image-3{
+        height: 350px;
+        background-size: cover;
+    }
+    #p5-image-1, #p5-image-2, #p5-image-3{
         height: 350px;
         background-size: cover;
     }

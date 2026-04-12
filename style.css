@@ -440,8 +440,27 @@ itt
     }
 }
 @media screen and (min-width: 1500px) and (max-width: 2500px) {
+    nav{
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+        height: 75px;
+    }
+    .nav-button{
+        padding: 10px;
+        width: 150px;
+        margin: 4px;
+    }
     footer{
-
+        height: 70px;
+    }
+    .header{
+        height: 550px;
+        font-size: 30px;
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: auto 1200px; /* Resize the background image to cover the entire container 819 x 557 */
+        background-position-y: 45%;
     }
     .image-1, .image-2, .image-3{
         height: 350px;

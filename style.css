@@ -115,21 +115,7 @@ footer > p{
     background-repeat: no-repeat;
     background-size: 1800px auto; 
     background-position-y: 47.5%;
-    /* 1280 x 720
-    grid-column: 1 / span 3;
-    height: 450px;
-    font-size:30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border: solid black 2px;
-    background-color: #aabbd7;
-    background-image: url("Images/lightning.jpg");
-    background-position: center; 
-    background-repeat: no-repeat; 
-    background-size: auto 900px; 
-    background-position-y: 45%; 819 x 557
-    */
+    /* 1280 x 720*/
 }
 #p3-header{
     grid-column: 1 / span 3;

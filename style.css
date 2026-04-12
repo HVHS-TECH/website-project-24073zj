@@ -479,14 +479,11 @@ itt
         height: 350px;
         background-size: cover;
     }
-    .text-1, .text-2, .text-3{
+    .text-1, .text-2{
         height: 350px;
     }
     #p1-image-1, #p1-image-2, #p1-image-3{
         height: 350px;
         background-size: cover;
-    }
-    #p1-text-1, #p1-text-2, #p1-text-3{
-        height: 350px;
     }
 }

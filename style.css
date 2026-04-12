@@ -469,7 +469,9 @@ itt
         height: 450px;
         background-size: cover;
     }
-    
+    .grid item .text-1{
+        /*grid-column: 1 / span 1;*/
+    }
 }
 @media screen and (min-width: 1600px) {
     p{

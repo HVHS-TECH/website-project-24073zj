@@ -482,11 +482,15 @@ itt
         height: 550px;
         font-size: 30px;
         background-size: cover;
+        background-size: 1800px auto; 
+        background-position-y: 47.5%;
     }
     #p3-header{
         height: 550px;
         font-size: 30px;
         background-size: cover;
+        background-size: 1900px auto; /* Resize the background image to cover the entire container 819 x 557 */
+        background-position-y: 51.25%;
     }
     #p1-header > h1, #p2-header > h1{
         font-size: 60pt;

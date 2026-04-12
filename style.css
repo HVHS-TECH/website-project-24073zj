@@ -389,7 +389,7 @@ itt
     }
     .image-1{
         grid-column: 1 / span 1;
-        height: 250px;
+        height: 350px;
         border: solid black 2px;
         background-image: url("Images/f22.jpg");
         background-position: center;
@@ -415,7 +415,7 @@ itt
     .image-2{
         grid-column: 1 / span 1;
         grid-row: 4;
-        height: 250px;
+        height: 350px;
         /*width: 500px;*/
         border: solid black 2px;
         background-image: url("Images/meteor.jpg");
@@ -427,7 +427,7 @@ itt
     }
     .image-3{
         grid-column: 1 / span 1;
-        height: 250px;
+        height: 350px;
         /*width: 500px;*/
         border: solid black 2px;
         background-color: #eef0f2;

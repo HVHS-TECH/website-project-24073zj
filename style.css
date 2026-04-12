@@ -56,6 +56,9 @@ footer{
 footer > p{
     margin-left: 20px;
 }
+
+/* 1200*/
+
 .grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;

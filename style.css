@@ -130,7 +130,7 @@ itt
     align-items: center;
     border: solid black 2px;
     background-color: #aabbd7;
-    background-image: url("Images/LighningEdit2.png");
+    background-image: url("Images/LightningEdit2.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 1800px auto; 
@@ -468,9 +468,6 @@ itt
         grid-column: 1 / span 1;
         height: 450px;
         background-size: cover;
-    }
-    .grid item .text-1{
-        /*grid-column: 1 / span 1;*/
     }
 }
 @media screen and (min-width: 1600px) {

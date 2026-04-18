@@ -269,7 +269,7 @@ itt
     grid-column: 1 / span 1;
     height: 250px;
     border: solid black 2px;
-    background-image: url("Images/f86.jpg");
+    background-image: url("Images/mig15.jpg");
     background-position: center 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -279,7 +279,7 @@ itt
     grid-column: 3 / span 1;
     height: 250px;
     border: solid black 2px;
-    background-image: url("Images/mig15.jpg");
+    background-image: url("Images/f86.jpg");
     background-position: center 50%;
     background-repeat: no-repeat;
     background-size: cover;

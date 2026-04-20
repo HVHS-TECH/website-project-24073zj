@@ -418,7 +418,8 @@ itt
     }
     .text-2{
         grid-column: 1 / span 1;
-        height: 350px;
+        min-height: 350px;
+        height: auto;
         border: solid black 2px;
         background-color: #eef0f2;
         background-color: #d7d9db;
@@ -450,7 +451,8 @@ itt
     }
     .text-3{
         grid-column: 1 / span 1;
-        height: 350px;
+        min-height: 350px;
+        height: auto;
         border: solid black 2px;
         background-color: #d7d9db;
     }

@@ -26,6 +26,10 @@ button:hover{
     border-style: inset;
     /*background-color: #d4661c;*/
 }
+button:hover:not(.nav-button){
+    border-style: outset;
+    transform: scale(1.1, 1.1);
+}
 button:active{
     border-style: inset;
     background-color: #ff9148;
@@ -379,6 +383,20 @@ itt
     background-size: cover;
     transform: scaleX(-1);
 }
+
+
+.next-page{
+    grid-column: 1 / span 3;
+    border: solid black 2px;
+    background-color: #adaeaf;
+    height: auto;
+    padding:10px;
+}
+
+
+
+
+
 
 
 /* Media Query stuff! */

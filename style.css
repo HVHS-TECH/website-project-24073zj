@@ -18,7 +18,7 @@ body{
     padding: 2px;
 }
 button{
-    background-color: #CDEDF6; /*#FA7921;*/
+    background-color: #75c8ff; /*#FA7921;*/
     padding: 6px;
     border-style: outset;
 }
@@ -32,7 +32,7 @@ button:hover:not(.nav-button){
 }
 button:active{
     border-style: inset;
-    background-color: #ff9148;
+    background-color: #3d9fe0 /*#ff9148*/;
 }
 nav{
     display: flex;

@@ -397,14 +397,14 @@ itt
 
 
 
-/*
+/* Sticky nav implementation */
 nav{
-        position: sticky;
-        top: 0;
-        background-color: #ffffff;
-        z-index: 100; 
-    }
-*/
+    position: sticky;
+    top: 0;
+    background-color: #ffffff;
+    z-index: 100; 
+}
+
 /* Media Query stuff! */
 @media screen and (max-width: 990px) { /* Mobile */
     nav{

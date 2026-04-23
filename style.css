@@ -398,7 +398,12 @@ itt
 
 
 
-
+nav{
+        position: sticky;
+        top: 0;
+        background-color: #ffffff;
+        z-index: 100; /* Keeps it above other elements */
+    }
 
 /* Media Query stuff! */
 @media screen and (max-width: 990px) { /* Mobile */
